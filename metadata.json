@@ -1,0 +1,6 @@
+{
+  "name": "SAARTHI AI",
+  "description": "AI-powered voice-first livelihood and skilling assistance with NSQF-aligned recommendations under PM-AJAY",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
